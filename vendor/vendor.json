@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "N/+JGoZyAP9e/x8nA6X3qwDNyEI=",
+			"path": "github.com/tmnt-raphael/kenwebutil",
+			"revision": "78f6b54821737c00366742f6645214d0a56b8189",
+			"revisionTime": "2018-08-04T23:21:09Z"
+		}
+	],
+	"rootPath": "github.com/tmnt-raphael/ken-heroku-go"
+}
